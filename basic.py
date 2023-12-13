@@ -24,3 +24,6 @@ dict_var = {"name": "John", "age": 30}
 
 # None variable
 none_var = None
+
+print(int(integer_var/2))
+print(str(float_var) + "\n is the py value")

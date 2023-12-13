@@ -1,1 +1,1 @@
-print("Hy Oliver!")
+print("This is a string!")

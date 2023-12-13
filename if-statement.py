@@ -5,14 +5,14 @@ if x > 5:
 
 # Example with multiple conditions using 'and'
 y = 7
-if y > 5 and y < 10:
+if 5 < y < 10:
     print("y is between 5 and 10")
-elif y > 5 and y > 10:
-    print("y is greater than 5 and greater than 10")
+elif y > 10:
+    print("y is greater than 10")
 else:
-    print("y is less than 5 and less than 10")
+    print("y is less than 5")
 
 # Example with multiple conditions using 'or'
-z = 3
+z = 5
 if z < 5 or z > 10:
     print("z is either less than 5 or greater than 10")

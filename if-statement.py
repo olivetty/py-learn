@@ -1,8 +1,3 @@
-""" This is a multi line comment
-    We need to be very carefull about the indentation
-    This is a multi line comment
-"""
-
 # --- Example with a single condition
 x = 10
 if x > 5:

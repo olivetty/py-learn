@@ -449,4 +449,3 @@ for i, letter in enumerate(sorted(word)):
 # 3 : l
 # 4 : o
     
-    

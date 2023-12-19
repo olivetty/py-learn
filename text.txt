@@ -1,0 +1,2 @@
+Sample text to save
+New line!Thsi text will be appended to the file.

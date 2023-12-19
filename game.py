@@ -39,7 +39,7 @@ def generate_character():
     strength = (roll_dice(6) * roll_dice(12)) / 2 + 12
 
     # fake loading
-    countdown(2)
+    countdown(3)
     os.system("clear")
 
     # show the character to the user
